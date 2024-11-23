@@ -20,8 +20,8 @@ Check out some of my projects:
 - [Project 2](https://safar7.netlify.app/)): A responsive e-commerce platform.
 
 ## 📫 Let's Connect
-- **GitHub**: [your-username](https://github.com/mdrayhanhowlader)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/mdrayhanhowlader)
+- **GitHub**: [MD Rayhan Howlader](https://github.com/mdrayhanhowlader)
+- **LinkedIn**: [MD Rayhan Howlader](https://linkedin.com/in/mdrayhanhowlader)
 
 
 
