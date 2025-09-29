@@ -17,8 +17,8 @@
 - 🤝 **Collaboration**: Working on [PRUSSIAN BD](https://prussianbd.com/).
 - 🌍 **Side Project**: Improving [Keyston](https://keystone-client.vercel.app/en/master).
 - 🌍 **Side Project**: Improving [SAFAR](https://safar7.netlify.app/), an innovative journey app.
-- 🌐 **Portfolio**: Explore my work at [rhfaheem.netlify.app](https://rhfaheem.netlify.app/).
-- 🖋️ **Blog**: Sharing my thoughts and tutorials at [My Blog](https://rhfaheem.netlify.app/).
+- 🌐 **Portfolio**: Explore my work at [rhfaheem.netlify.app]([https://rhfaheem.netlify.app/](https://mdrayhanhowlader.github.io/portfolio/)).
+- 🖋️ **Blog**: Sharing my thoughts and tutorials at [My Blog]([https://rhfaheem.netlify.app/](https://mdrayhanhowlader.github.io/portfolio/)).
 - 💬 **Ask Me About**: Web development with **React, Next.js, Express.js, MongoDB, and Docker**.
 - 📫 **Email**: [rhowlader5314@gmail.com](mailto:rhowlader5314@gmail.com).
 - 📄 **Resume**: [View Here](https://drive.google.com/file/d/1tnXlbZQ_Q1VJfu9Od0aq4DqgEhax3O5f/view?usp=sharing).
