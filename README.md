@@ -13,15 +13,13 @@
 
 - 🌟 **Current Work**: Building **Education Management Platforms**.
 - 🎓 **Learning**: Advancing my skills with **C, C++, and CSE Fundamentals via Phitron**.
-- 🤝 **Collaboration**: Working on [GLORION IT](https://glorionit.com/).
-- 🤝 **Collaboration**: Working on [PRUSSIAN BD](https://prussianbd.com/).
-- 🌍 **Side Project**: Improving [Keyston](https://keystone-client.vercel.app/en/master).
-- 🌍 **Side Project**: Improving [SAFAR](https://safar7.netlify.app/), an innovative journey app.
-- 🌐 **Portfolio**: Explore my work at [rhfaheem.netlify.app]([https://rhfaheem.netlify.app/](https://mdrayhanhowlader.github.io/portfolio/)).
-- 🖋️ **Blog**: Sharing my thoughts and tutorials at [My Blog]([https://rhfaheem.netlify.app/](https://mdrayhanhowlader.github.io/portfolio/)).
+- 🤝 **Collaboration**: Working on [GLORION IT](https://glorionit.com/) and [PRUSSIAN BD](https://prussianbd.com/).
+- 🌍 **Side Projects**: Improving [Keyston](https://keystone-client.vercel.app/en/master) and [SAFAR](https://safar7.netlify.app/), an innovative journey app.
+- 🌐 **Portfolio**: Explore my work at [Portfolio](https://mdrayhanhowlader.github.io/portfolio/).
+- 🖋️ **Blog**: Sharing my thoughts and tutorials at [My Blog](https://mdrayhanhowlader.github.io/portfolio/).
 - 💬 **Ask Me About**: Web development with **React, Next.js, Express.js, MongoDB, and Docker**.
-- 📫 **Email**: [rhowlader5314@gmail.com](mailto:rhowlader5314@gmail.com).
-- 📄 **Resume**: [View Here](https://drive.google.com/file/d/1tnXlbZQ_Q1VJfu9Od0aq4DqgEhax3O5f/view?usp=sharing).
+- 📫 **Email**: [rhowlader5314@gmail.com](mailto:rhowlader5314@gmail.com)
+- 📄 **Resume**: [View Here](https://drive.google.com/file/d/1tnXlbZQ_Q1VJfu9Od0aq4DqgEhax3O5f/view?usp=sharing)
 
 ---
 
@@ -62,13 +60,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdrayhanhowlader&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrayhanhowlader&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrayhanhowlader&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
